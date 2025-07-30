@@ -26,7 +26,7 @@ Realizar o Sorteio
 3. O sistema gerará automaticamente os pares
 4. Os resultados serão exibidos em verde na parte inferior
 
-### Funcionalidades Extras
+Funcionalidades Extras
 - **Validação automática**: Impede nomes duplicados e entradas vazias
 - **Algoritmo anti-auto-sorteio**: Garante que ninguém tire o próprio nome
 - **Botão limpar**: Remove todos os dados e reinicia o processo
@@ -58,7 +58,7 @@ Executar Localmente
 
 4. **Pronto!** A aplicação estará rodando e pronta para uso.
 
-## 📸 Capturas de Tela
+Capturas de Tela
 
 ### Tela Inicial
 ![Tela inicial da aplicação](assets/screenshots/tela-inicial.png)
