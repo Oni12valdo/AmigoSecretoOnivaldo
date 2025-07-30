@@ -1,26 +1,26 @@
-# 🎁 Projeto Amigo Secreto
+Projeto Amigo Secreto
 
 Este projeto é uma aplicação web simples e intuitiva para organizar um sorteio de amigo secreto entre amigos, familiares ou colegas de trabalho. Desenvolvido com HTML, CSS e JavaScript puro, oferece uma interface moderna e responsiva para facilitar a organização do seu evento.
 
-## 🚀 Funcionalidades
+Funcionalidades
 
-- ✅ **Adicionar nomes dinamicamente** - Interface intuitiva para inserir participantes
-- ✅ **Validação de entradas** - Previne nomes duplicados e entradas vazias
-- ✅ **Algoritmo inteligente de sorteio** - Garante que ninguém tire a si mesmo
-- ✅ **Exibição clara dos resultados** - Mostra os pares de forma organizada
-- ✅ **Interface responsiva** - Funciona em desktop e dispositivos móveis
-- ✅ **Botão limpar tudo** - Permite reiniciar o processo facilmente
-- ✅ **Suporte a teclado** - Pressione Enter para adicionar nomes rapidamente
+- Adicionar nomes dinamicamente** - Interface intuitiva para inserir participantes
+- Validação de entradas** - Previne nomes duplicados e entradas vazias
+- Algoritmo inteligente de sorteio** - Garante que ninguém tire a si mesmo
+- Exibição clara dos resultados** - Mostra os pares de forma organizada
+- Interface responsiva** - Funciona em desktop e dispositivos móveis
+- Botão limpar tudo** - Permite reiniciar o processo facilmente
+- Suporte a teclado** - Pressione Enter para adicionar nomes rapidamente
 
-## 🎯 Como Funciona
+ Como Funciona
 
-### Adicionar Nomes
+ Adicionar Nomes
 1. Digite o nome de um participante no campo de entrada
 2. Clique em **"Adicionar"** ou pressione **Enter**
 3. O nome aparecerá na lista abaixo
 4. Repita o processo para todos os participantes
 
-### Realizar o Sorteio
+Realizar o Sorteio
 1. Certifique-se de ter pelo menos 2 participantes na lista
 2. Clique no botão **"Sortear amigo"**
 3. O sistema gerará automaticamente os pares
@@ -78,7 +78,7 @@ Este projeto é uma aplicação web simples e intuitiva para organizar um sortei
 
 > **Nota:** Para adicionar capturas reais, substitua os arquivos de exemplo em `assets/screenshots/` pelas suas próprias imagens.
 
-## 📁 Estrutura do Projeto
+Estrutura do Projeto
 
 ```
 amigo-secreto/
@@ -96,9 +96,9 @@ amigo-secreto/
 └── README.md           # Este arquivo
 ```
 
-## 🛠️ Melhorias Implementadas e Sugeridas
+Melhorias Implementadas e Sugeridas
 
-### ✅ Implementadas
+Implementadas
 - [x] **Validação de nomes duplicados** - Evita confusão no sorteio
 - [x] **Suporte a Enter** - Agiliza a adição de nomes
 - [x] **Botão "Limpar tudo"** - Facilita reiniciar o processo
@@ -106,7 +106,7 @@ amigo-secreto/
 - [x] **Interface responsiva** - Funciona bem em mobile
 - [x] **Confirmação antes de limpar** - Evita perda acidental de dados
 
-### 🔄 Sugestões para Futuras Versões
+ Sugestões para Futuras Versões
 - [ ] **Modo sigiloso**: Cada pessoa vê apenas seu próprio resultado
 - [ ] **Exportar resultado em PDF** - Para imprimir ou compartilhar
 - [ ] **Histórico de sorteios** - Salvar sorteios anteriores
@@ -116,16 +116,16 @@ amigo-secreto/
 - [ ] **Animação no sorteio** - Efeito visual durante o processo
 - [ ] **Compartilhamento via link** - Enviar resultado por WhatsApp/email
 
-### 🎨 Melhorias de UX Identificadas
+ Melhorias de UX Identificadas
 - [ ] **Feedback visual melhor** - Loading spinner durante sorteio
 - [ ] **Contador de participantes** - Mostrar quantos nomes foram adicionados
 - [ ] **Modo escuro** - Para melhor experiência noturna
 - [ ] **Undo/Redo** - Desfazer adição de nomes
 - [ ] **Arrastar e soltar** - Reordenar lista de participantes
 
-## 👩‍💻 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
-### Frontend
+ Frontend
 - **HTML5** - Estrutura semântica e acessível
 - **CSS3** - Design moderno com:
   - Variáveis CSS para cores consistentes
@@ -133,18 +133,18 @@ amigo-secreto/
   - Border-radius e box-shadow para visual moderno
   - Hover effects para interatividade
 
-### JavaScript (Vanilla)
+ JavaScript (Vanilla)
 - **DOM Manipulation** - Criação dinâmica de elementos
 - **Event Listeners** - Interatividade com teclado e mouse
 - **Array Methods** - Manipulação eficiente de listas
 - **Algorithm Design** - Lógica de sorteio com validações
 
-### Recursos Visuais
+ Recursos Visuais
 - **Google Fonts** - Tipografia profissional (Inter + Merriweather)
 - **Ícones personalizados** - Assets visuais inclusos
 - **Paleta de cores coesa** - Design consistente
 
-## 🎨 Características do Design
+Características do Design
 
 ### Paleta de Cores
 - **Primária**: `#4B69FD` (Azul moderno)
@@ -157,7 +157,7 @@ amigo-secreto/
 - **Títulos**: Merriweather (elegante e legível)
 - **Interface**: Inter (moderna e clean)
 
-## 🤝 Como Contribuir
+Como Contribuir
 
 1. Faça um fork do projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
@@ -165,24 +165,24 @@ amigo-secreto/
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
 
-## 📝 Licença
+Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👤 Créditos
+Créditos
 
 **Desenvolvido por**: Onivaldo Pereira Junior  
 **Inspirado por**: Desafios de lógica de programação e eventos de confraternização  
 **Finalidade**: Projeto educacional para fortalecimento de habilidades em JavaScript
 
-### Agradecimentos
+ Agradecimentos
 - Comunidade de desenvolvedores por inspirações de design
 - Eventos de amigo secreto que motivaram a criação
 - Feedback de usuários para melhorias contínuas
 
 ---
 
-### 💡 Dica de Desenvolvedor
+ Dica de Desenvolvedor
 
 Para uma experiência de desenvolvimento otimizada, recomendo:
 
