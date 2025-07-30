@@ -31,9 +31,9 @@ Realizar o Sorteio
 - **Algoritmo anti-auto-sorteio**: Garante que ninguém tire o próprio nome
 - **Botão limpar**: Remove todos os dados e reinicia o processo
 
-## 💻 Instruções de Uso
+Instruções de Uso
 
-### Executar Localmente
+Executar Localmente
 
 1. **Clone ou baixe o projeto**
    ```bash
@@ -200,4 +200,4 @@ Para uma experiência de desenvolvimento otimizada, recomendo:
    - Teste a responsividade em diferentes dispositivos
    - Verifique a acessibilidade com leitores de tela
 
-**Divirta-se organizando seu amigo secreto! 🎉** 
+Divirta-se organizando seu amigo secreto!  
